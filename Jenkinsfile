@@ -41,7 +41,7 @@ pipeline {
             steps {
                 script {
                     // Đẩy Docker image lên Docker registry
-                    withCredentials([usernamePassword(credentialsId: 'DockerHub_Credentails', 
+                    withCredentials([usernamePassword(credentialsId: 'Dockerhub_credentails', 
                     passwordVariable: 'DOCKER_PASSWORD', 
                     usernameVariable: 'DOCKER_USERNAME')]) {
                         sh '''
