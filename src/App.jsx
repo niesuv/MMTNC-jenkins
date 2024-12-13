@@ -19,7 +19,9 @@ function App() {
       <h1>
         <strong>22120310_22120221_22120085</strong>
         <br />
-        <strong>Version 2</strong>
+        <strong>Version 3</strong>
+        <br />
+        <strong>mạng máy tính thật là vui</strong>
       </h1>
       
     </>
