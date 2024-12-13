@@ -19,7 +19,7 @@ function App() {
       <h1>
         <strong>22120310_22120221_22120085</strong>
         <br />
-        <strong>Version 1</strong>
+        <strong>Version 2</strong>
       </h1>
       
     </>
